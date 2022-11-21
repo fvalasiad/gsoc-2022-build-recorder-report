@@ -24,8 +24,6 @@ To run all tests, compile the build recorder, `cd` into [test](https://github.co
 You can find it in [doc](https://github.com/eellak/gsoc2022--build-recorder/tree/main/doc).
 
 ## What's Left To Be Done
-It's hard to answer this question because our initial plans and expectations went south. For every time we thought we were close to closure, a new idea popped up on how to improve even further, so many times that we actually had to set a breakpoint of what shall be considered a part of "GSoC" and what shall be labeled with a `future` tag.
-
 As previously mentioned this is an entirely new project and thus if there is an obvious answer, that's bug fixing. We although came to an agreement to continue developing, supporting, and improving `build_recorder` even after the end of GSoC. And thus we are looking forward to seeing just how much this project can evolve.
 
 ## What Have I Learned
