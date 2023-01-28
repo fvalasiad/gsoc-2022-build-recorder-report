@@ -1,6 +1,6 @@
 # Build Recorder - GFOSS - GSoC 2022
 
-* Project Repository: [eellak/gsoc2022--build-recorder](https://github.com/eellak/gsoc2022--build-recorder)
+* Project Repository: [eellak/build-recorder](https://github.com/eellak/build-recorder)
 * Mentor: Alexios Zavras
 * Contributor: Fotios Valasiadis
 * Organization: [GFOSS - Open Technologies Alliance](https://gfoss.eu/)
